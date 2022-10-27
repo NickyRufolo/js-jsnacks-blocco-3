@@ -1,6 +1,6 @@
 // -array vuoto
 // -chiedere all'user un numero da inserire nell'array con prompt o parse int
-const array = []; // array vuoto 
+let array = []; // array vuoto 
 let sum = 0; //variabile somma = 0
 //creo ciclo do while
 do {
